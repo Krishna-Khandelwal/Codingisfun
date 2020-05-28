@@ -1,2 +1,2 @@
 # Codingisfun
-i want to code for fun
+i want to code for fun in python
